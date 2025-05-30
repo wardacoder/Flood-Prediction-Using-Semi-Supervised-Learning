@@ -33,8 +33,7 @@ This project introduces a robust semi-supervised learning framework centered on 
    Only predictions with **≥95% confidence** were retained for reliability.
 
 3. **Final Semi-Supervised Training**  
-   Combined the original labeled data with high-confidence pseudo-labeled data (total: 13,910 records)  
-   to train the final KNN model.
+   Combined the original labeled data with high-confidence pseudo-labeled data (total: 13,910 records) to **retrain** the model. Tuned hyperparameters (neighbors, metric, weights) using GridSearchCV for optimal performance
 
 ---
 
