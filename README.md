@@ -1,6 +1,6 @@
 # 🌊 Flood Prediction Using Semi-Supervised Learning
 
-Floods are among the most devastating natural disasters in Bangladesh, with recurring events causing massive loss of life, infrastructure, and livelihoods. While real-time sensor networks are expanding, the availability of **labeled flood data** remains limited due to high annotation costs and logistical constraints.
+Floods are among the most devastating natural disasters, with recurring events causing massive loss of life, infrastructure, and livelihoods. While real-time sensor networks are expanding, the availability of **labeled flood data** remains limited due to high annotation costs and logistical constraints.
 
 This project introduces a robust semi-supervised learning framework centered on the **K-Nearest Neighbors (KNN)** algorithm, enhanced through **rigorous preprocessing**, **selective pseudo-labeling**, and a **three-phase training pipeline**. While KNN is typically considered simple, this work demonstrates how **thoughtful model design** and **data-centric strategies** can deliver **near-perfect performance**. The final model achieved a test **F1-score of 0.9986 (99.86%)**, outperforming more complex methods and setting a new **benchmark** for this widely used dataset. 
 
@@ -8,7 +8,7 @@ This project introduces a robust semi-supervised learning framework centered on 
 
 ## 📌 Overview
 
-- **Dataset**: 20,500+ records from Bangladesh (approx. 78% unlabeled)
+- **Dataset**: 20,500+ records (approx. 78% unlabeled)
 - **Goal**: Robust and balanced prediction of flood and non-flood events in a data-scarce environment, with special emphasis on class-wise performance using test F1-score.
 - **Method**: Semi-supervised learning with KNN and high-confidence pseudo-labeling
 
