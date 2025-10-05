@@ -15,7 +15,7 @@ This project addresses that challenge through **semi-supervised learning**, usin
 
 ## 📖 Overview
 
-This project introduces a **semi-supervised ML solution** that tackles **data scarcity** while maintaining interpretability and performance.  
+This project introduces a **semi-supervised ML solution** that tackles **data label scarcity** while maintaining interpretability and performance.  
 By combining **selective pseudo-labeling** with **rigorous preprocessing** and **model fine-tuning**, the framework achieves near-perfect classification of flood vs non-flood events.
 
 **Key Highlights**
