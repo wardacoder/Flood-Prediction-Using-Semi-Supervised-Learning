@@ -1,6 +1,6 @@
 # 🧠 Semi-Supervised ML Framework  
 
-A **semi-supervised machine learning framework** engineered for **unlabeled data environments**, demonstrating applied **AI/ML and data science expertise** through efficient model design and evaluation. Built with **Python** and **Scikit-learn**, it integrates **selective pseudo-labeling**, **comprehensive data preprocessing**, and a **three-phase training workflow** to deliver **state-of-the-art predictive accuracy (F1 = 0.9986)** on real-world flood data: surpassing results reported in published studies. 
+A **semi-supervised machine learning framework** designed for **partially labeled datasets**, demonstrating applied **AI/ML and data science expertise** through efficient model design and evaluation. Built with **Python** and **Scikit-learn**, it integrates **selective pseudo-labeling**, **comprehensive data preprocessing**, and a **three-phase training workflow** to deliver **state-of-the-art predictive accuracy (F1 = 0.9986)** on real-world flood data: surpassing results reported in published studies. 
 
 This project demonstrates practical **ML engineering**: from problem definition and feature design to model optimization, evaluation, and validation. It highlights how even lightweight algorithms like KNN can outperform complex deep-learning architectures when paired with robust, data-centric methodology.
 
