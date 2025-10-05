@@ -8,7 +8,7 @@ This project demonstrates practical **ML engineering**: from problem definition 
 
 ## 🌍 Context
 
-Floods are among the most frequent and damaging natural disasters, yet **labeled flood datasets** remain scarce due to annotation costs and logistical limitations.  
+Floods are among the most frequent and damaging natural disasters, yet **labels of flood datasets** remain scarce due to annotation costs and logistical limitations.  
 This project addresses that challenge through **semi-supervised learning**, using a small set of labeled data and intelligently expanding it via **pseudo-labeling** to train an accurate and reliable predictive model.
 
 ---
